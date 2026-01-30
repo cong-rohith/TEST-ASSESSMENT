@@ -121,7 +121,7 @@ body{
 
 p{
     margin-left: 704px;
-    color: rgba(0, 0, 0, 0.527);
+    color: rgba(0, 0, 0, 0.52);
 }
 .upload{
     margin-left: 325px;
@@ -134,4 +134,5 @@ p{
     display: inline-block;
     margin-left: 42px;
     margin-top: 55px;
+
 }
